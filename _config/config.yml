@@ -1,0 +1,4 @@
+ContentController:
+  extensions:
+    # Add some extra protection for intranet-subpages which may have too liberal access settings
+    - Intranet_Controller_Extension
